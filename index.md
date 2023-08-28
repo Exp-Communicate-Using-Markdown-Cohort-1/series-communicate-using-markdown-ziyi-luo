@@ -1,0 +1,6 @@
+# 1maybe it's sth i like to make it in the h1 header
+## actually i knew how to write a simple md file
+### 
+#### 
+##### 
+###### haha ,maybe that's enough
