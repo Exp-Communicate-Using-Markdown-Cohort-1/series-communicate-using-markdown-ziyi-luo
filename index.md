@@ -12,6 +12,8 @@
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+help i can't reach outside
 ```
 
 - [x] Turn on GitHub Pages
